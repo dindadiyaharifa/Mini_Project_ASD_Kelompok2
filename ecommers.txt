@@ -1,0 +1,119 @@
+Smartphone X|12000000
+
+Laptop Pro|15000000
+
+Wireless Earbuds|500000
+
+Smart Watch|2500000
+
+Bluetooth Speaker|800000
+
+Power Bank 10000mAh|300000
+
+4K TV 55 Inch|8000000
+
+Gaming Mouse|450000
+
+Mechanical Keyboard|700000
+
+External SSD 1TB|1500000
+
+DSLR Camera|5000000
+
+Action Camera|2500000
+
+Air Purifier|1800000
+
+Robot Vacuum|3500000
+
+Microwave Oven|1200000
+
+Blender|400000
+
+Rice Cooker|600000
+
+Coffee Maker|900000
+
+Toaster|300000
+
+Electric Kettle|250000
+
+Standing Desk|2000000
+
+Office Chair|1500000
+
+Yoga Mat|200000
+
+Dumbbell Set|800000
+
+Treadmill|5000000
+
+Smart Scale|400000
+
+Water Bottle|150000
+
+Backpack|350000
+
+Running Shoes|800000
+
+Wireless Charger|250000
+
+USB-C Hub|300000
+
+Monitor 27 Inch|3000000
+
+Printer|1200000
+
+Projector|4000000
+
+VR Headset|3500000
+
+Graphic Tablet|2500000
+
+Portable Monitor|2000000
+
+E-Reader|1500000
+
+Smart Bulb|200000
+
+Security Camera|800000
+
+Doorbell Camera|1200000
+
+NAS Storage|3500000
+
+Wi-Fi Router|600000
+
+VPN Router|1000000
+
+Electric Scooter|5000000
+
+Bike Helmet|300000
+
+Car Phone Holder|100000
+
+Dash Cam|700000
+
+Jump Starter|1200000
+
+Car Vacuum|400000
+
+Air Fryer|900000
+
+Slow Cooker|500000
+
+Food Processor|700000
+
+Hand Mixer|300000
+
+Electric Toothbrush|400000
+
+Hair Dryer|350000
+
+Hair Straightener|500000
+
+Beard Trimmer|250000
+
+Massage Gun|1200000
+
+Foot Spa|600000
